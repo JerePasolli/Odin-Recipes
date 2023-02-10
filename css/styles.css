@@ -1,0 +1,15 @@
+h1, h2, h3, p {
+    text-align: center;
+}
+
+img {
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+
+ul, li {
+    background-color: aqua;
+    width: 20%;
+    margin: auto;
+}
